@@ -24,7 +24,7 @@
             <div class="swiper-slide">
                 <div class="shape1"></div>
                 <div class="shape2"></div>
-                <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-slider-img1.jpg);">
+                <div class="image-layer" style="background-image: url(Boaz/img/slider.jpg);">
                 </div>
                 <!-- /.image-layer -->
 
@@ -32,11 +32,13 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="main-slider__content">
-                                <h2 class="main-slider__title">Improve <br> Your Mental <br> Health </h2>
-                                <p class="main-slider__text">How do we turn difficult mental or emotional
-                                    experiences into <br>opportunities for personal growth and reflection?</p>
+                                <h2 class="main-slider__title">Laski Vivien <br> sport mentáltréner<br> és life coach
+                                </h2>
+                                <p class="main-slider__text">„A siker nem egy véletlen.
+                                    véletlen. Kemény munka, kitartás, tanulás, áldozat, <br>de leginkább az
+                                    öröm meglelése abban, amit csinálsz.”</p>
                                 <div class="main-slider__btn-box">
-                                    <a href="#" class="thm-btn">Our Counseling</a>
+                                    <a href="/magamrol" class="thm-btn">Részletek</a>
                                 </div>
                             </div>
                         </div>
@@ -49,7 +51,7 @@
             <div class="swiper-slide">
                 <div class="shape1"></div>
                 <div class="shape2"></div>
-                <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-slider-img2.jpg);">
+                <div class="image-layer" style="background-image: url(Boaz/img/slider.jpg);">
                 </div>
                 <!-- /.image-layer -->
 
@@ -57,11 +59,13 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="main-slider__content">
-                                <h2 class="main-slider__title">Improve <br> Your Mental <br> Health </h2>
-                                <p class="main-slider__text">How do we turn difficult mental or emotional
-                                    experiences into <br>opportunities for personal growth and reflection?</p>
+                                <h2 class="main-slider__title">Laski Vivien <br> sport mentáltréner<br> és life coach
+                                </h2>
+                                <p class="main-slider__text">„A siker nem egy véletlen.
+                                    véletlen. Kemény munka, kitartás, tanulás, áldozat, <br>de leginkább az
+                                    öröm meglelése abban, amit csinálsz.”</p>
                                 <div class="main-slider__btn-box">
-                                    <a href="#" class="thm-btn">Our Counseling</a>
+                                    <a href="/magamrol" class="thm-btn">Részletek</a>
                                 </div>
                             </div>
                         </div>
@@ -74,7 +78,7 @@
             <div class="swiper-slide">
                 <div class="shape1"></div>
                 <div class="shape2"></div>
-                <div class="image-layer" style="background-image: url(assets/images/backgrounds/main-slider-img3.jpg);">
+                <div class="image-layer" style="background-image: url(Boaz/img/slider.jpg);">
                 </div>
                 <!-- /.image-layer -->
 
@@ -82,11 +86,13 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="main-slider__content">
-                                <h2 class="main-slider__title">Improve <br> Your Mental <br> Health </h2>
-                                <p class="main-slider__text">How do we turn difficult mental or emotional
-                                    experiences into <br>opportunities for personal growth and reflection?</p>
+                                <h2 class="main-slider__title">Laski Vivien <br> sport mentáltréner<br> és life coach
+                                </h2>
+                                <p class="main-slider__text">„A siker nem egy véletlen.
+                                    véletlen. Kemény munka, kitartás, tanulás, áldozat, <br>de leginkább az
+                                    öröm meglelése abban, amit csinálsz.”</p>
                                 <div class="main-slider__btn-box">
-                                    <a href="#" class="thm-btn">Our Counseling</a>
+                                    <a href="/magamrol" class="thm-btn">Részletek</a>
                                 </div>
                             </div>
                         </div>
@@ -112,8 +118,8 @@
 
 <!--Start About One-->
 <section class="about-one">
-    <div class="shape3"><img src="assets/images/shapes/about-v1-shape3.png" alt="" /></div>
-    <div class="shape4"><img src="assets/images/shapes/about-v1-shape4.png" alt="" /></div>
+    <div class="shape3"><img src="assets/images/shapes/about-v1-shape3.png" alt="Laski mentaltrening" /></div>
+    <div class="shape4"><img src="assets/images/shapes/about-v1-shape4.png" alt="Laski mentaltrening" /></div>
     <div class="container">
         <div class="row">
             <!--Start About One Img-->
@@ -122,25 +128,25 @@
                     <div class="border"></div>
                     <div class="about-one__img1">
                         <div class="shape1 float-bob-y">
-                            <img src="assets/images/shapes/about-v1-shape1.png" alt="" />
+                            <img src="assets/images/shapes/about-v1-shape1.png" alt="Laski mentaltrening" />
                         </div>
                         <div class="line1 float-bob-y"></div>
                         <div class="line2 float-bob-y"></div>
                         <div class="line3 float-bob-y"></div>
-                        <img src="assets/images/about/about-v1-img1.jpg" alt="" />
+                        <img src="assets/images/about/about-v1-img1.jpg" alt="Laski mentaltrening" />
                     </div>
                     <div class="about-one__img2">
                         <div class="about-one__img2-inner">
-                            <img src="assets/images/about/about-v1-img2.png" alt="" />
+                            <img src="assets/images/about/about-v1-img2.png" alt="Laski mentaltrening" />
                         </div>
                         <div class="about-one__img-text">
                             <div class="shape2">
-                                <img src="assets/images/shapes/about-v1-shape2.png" alt="" />
+                                <img src="assets/images/shapes/about-v1-shape2.png" alt="Laski mentaltrening" />
                             </div>
                             <div class="icon">
                                 <span class="icon-valentines-couple"></span>
                             </div>
-                            <p>Best Couple <br>Counselling</p>
+                            <p>Legjobb <br>Tanácsadás</p>
                         </div>
                     </div>
                 </div>
@@ -151,36 +157,37 @@
             <div class="col-xl-6">
                 <div class="about-one__content">
                     <div class="section-title">
-                        <span class="section-title__tagline">About Comapny</span>
+                        <span class="section-title__tagline">Sport mentál tréner és life coach</span>
                         <div class="section-title__line"></div>
-                        <h2 class="section-title__title">Welcome to Our <br> Physical therapy <br> Services</h2>
+                        <h2 class="section-title__title">Üdvözöllek <br> Weboldalamon</h2>
                     </div>
 
                     <div class="about-one__content-text1">
-                        <p>Over 20 Years’ Experience Providing Top Quality therapy
-                            Across world orem ipsum therapy services</p>
+                        <p>Laski Vivien vagyok sport mentáltréner, rekreáció-, életmód- és egészségfejlesztő,
+                            szakedző és life coach. Több mint 20 éve mozgom a versenysport világában.</p>
                     </div>
 
                     <div class="about-one__content-text2">
                         <div class="about-one__content-text2-img">
                             <div class="about-one__content-text2-img1">
-                                <img src="assets/images/about/about-v1-img3.png" alt="" />
+                                <img src="assets/images/about/about-v1-img3.png" alt="Laski mentaltrening" />
                             </div>
                             <div class="about-one__content-text2-img2">
-                                <img src="assets/images/about/about-v1-img4.png" alt="" />
+                                <img src="assets/images/about/about-v1-img4.png" alt="Laski mentaltrening" />
                             </div>
                         </div>
                         <ul class="about-one__content-text2-list list-unstyled">
                             <li>
-                                <p><span class="icon-check"></span>Medical Health During Pandemic </p>
+                                <p><span class="icon-check"></span>Coaching, life coaching, sport mentáltréning </p>
                             </li>
 
                             <li>
-                                <p><span class="icon-check"></span>Finish work before Deadline</p>
+                                <p><span class="icon-check"></span>Önbizalomnövelő gyerektorna, csoportos tréning,
+                                    táboroztatás</p>
                             </li>
 
                             <li>
-                                <p><span class="icon-check"></span>The world's largest therapy</p>
+                                <p><span class="icon-check"></span>Senior torna</p>
                             </li>
                         </ul>
                     </div>
@@ -195,7 +202,7 @@
                             <p class="text1">Wiliam Robin</p>
                             <p class="text2">Co-founder</p>
                             <div class="img-box">
-                                <img src="assets/images/resources/about-v1-signature.png" alt="" />
+                                <img src="assets/images/resources/about-v1-signature.png" alt="Laski mentaltrening" />
                             </div>
                         </div>
                     </div>
@@ -213,16 +220,16 @@
     </div>
     <div class="container">
         <div class="section-title text-center">
-            <span class="section-title__tagline">Our Services</span>
+            <span class="section-title__tagline">Sport Mentál Tréner És Life Coach</span>
             <div class="section-title__line center"></div>
-            <h2 class="section-title__title">Psychological Services</h2>
+            <h2 class="section-title__title">Szolgáltatásaim</h2>
         </div>
         <div class="row">
             <!--Start Services One Single-->
             <div class="col-xl-4 col-lg-4 wow animated fadeInUp" data-wow-delay="0.1s">
                 <div class="services-one__single">
                     <div class="services-one__single-img">
-                        <img src="assets/images/services/services-v1-img1.jpg" alt="" />
+                        <img src="Boaz/img/services/coaching.jpg" alt="Laski mentaltrening" />
                         <div class="services-one__single-img-icon">
                             <div class="services-one__single-img-icon-inner">
                                 <span class="icon-valentines-couple"></span>
@@ -230,11 +237,10 @@
                         </div>
                     </div>
                     <div class="services-one__single-content clearfix">
-                        <h2><a href="individual-counselling.html">Couples therapy</a></h2>
+                        <h2><a href="/coaching">Coaching, life coaching, sport mentáltréning</a></h2>
                         <p>Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p>
                         <div class="btn-box">
-                            <a href="individual-counselling.html">Learn More <span
-                                    class="icon-right-arrow-2"></span></a>
+                            <a href="/coaching">Bővebben <span class="icon-right-arrow-2"></span></a>
                         </div>
                     </div>
                 </div>
@@ -245,7 +251,7 @@
             <div class="col-xl-4 col-lg-4 wow animated fadeInUp" data-wow-delay="0.3s">
                 <div class="services-one__single">
                     <div class="services-one__single-img">
-                        <img src="assets/images/services/services-v1-img2.jpg" alt="" />
+                        <img src="assets/images/services/services-v1-img2.jpg" alt="Laski mentaltrening" />
                         <div class="services-one__single-img-icon">
                             <div class="services-one__single-img-icon-inner">
                                 <span class="icon-disappointed-boy"></span>
@@ -253,11 +259,11 @@
                         </div>
                     </div>
                     <div class="services-one__single-content clearfix">
-                        <h2><a href="individual-counselling.html">Depression Problem</a></h2>
+                        <h2><a href="/taboroztatas">Önbizalomnövelő gyerektorna, csoportos tréning,
+                                táboroztatás</a></h2>
                         <p>Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p>
                         <div class="btn-box">
-                            <a href="individual-counselling.html">Learn More <span
-                                    class="icon-right-arrow-2"></span></a>
+                            <a href="/taboroztatas">Bővebben <span class="icon-right-arrow-2"></span></a>
                         </div>
                     </div>
                 </div>
@@ -268,7 +274,7 @@
             <div class="col-xl-4 col-lg-4 wow animated fadeInUp" data-wow-delay="0.5s">
                 <div class="services-one__single">
                     <div class="services-one__single-img">
-                        <img src="assets/images/services/services-v1-img3.jpg" alt="" />
+                        <img src="assets/images/services/services-v1-img3.jpg" alt="Laski mentaltrening" />
                         <div class="services-one__single-img-icon">
                             <div class="services-one__single-img-icon-inner">
                                 <span class="icon-child-care-baby-care"></span>
@@ -276,11 +282,10 @@
                         </div>
                     </div>
                     <div class="services-one__single-content clearfix">
-                        <h2><a href="individual-counselling.html">Children Counselling</a></h2>
+                        <h2><a href="/senior-torna">Senior torna</a></h2>
                         <p>Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p>
                         <div class="btn-box">
-                            <a href="individual-counselling.html">Learn More <span
-                                    class="icon-right-arrow-2"></span></a>
+                            <a href="/senior-torna">Bővebben <span class="icon-right-arrow-2"></span></a>
                         </div>
                     </div>
                 </div>
@@ -336,7 +341,7 @@
                         <div class="support-one__right-left">
                             <div class="shape1"></div>
                             <div class="support-one__right-img">
-                                <img src="assets/images/resources/support-v1-img3.png" alt="" />
+                                <img src="assets/images/resources/support-v1-img3.png" alt="Laski mentaltrening" />
                                 <div class="support-one__right-left-content">
                                     <p>Family <br>Counseling</p>
                                     <h2>
@@ -363,27 +368,27 @@
 
 <!--Start Why Choose One-->
 <section class="why-choose-one clearfix">
-    <div class="shape4"><img src="assets/images/shapes/why-choose-v1-shape4.png" alt="" /></div>
-    <div class="shape5"><img src="assets/images/shapes/why-choose-v1-shape5.png" alt="" /></div>
+    <div class="shape4"><img src="assets/images/shapes/why-choose-v1-shape4.png" alt="Laski mentaltrening" /></div>
+    <div class="shape5"><img src="assets/images/shapes/why-choose-v1-shape5.png" alt="Laski mentaltrening" /></div>
     <div class="why-choose-one__bg" style="background-image: url(assets/images/resources/why-choose-v1-img1.jpg);">
         <div class="why-choose-one__services-box">
             <div class="shape1"></div>
             <div class="icon-box">
                 <span class="icon-brain"></span>
             </div>
-            <h2>20</h2>
-            <h3>Years Therapy <br> Services</h3>
+            <h2>Több</h2>
+            <h3>Éves tapasztalat <br> Szolgáltatások</h3>
         </div>
 
         <div class="why-choose-one__inner">
             <div class="shape1 float-bob-y">
-                <img src="assets/images/shapes/why-choose-v1-shape1.png" alt="" />
+                <img src="assets/images/shapes/why-choose-v1-shape1.png" alt="Laski mentaltrening" />
             </div>
             <div class="shape2 float-bob-y">
-                <img src="assets/images/shapes/why-choose-v1-shape2.png" alt="" />
+                <img src="assets/images/shapes/why-choose-v1-shape2.png" alt="Laski mentaltrening" />
             </div>
             <div class="shape3 float-bob-y">
-                <img src="assets/images/shapes/why-choose-v1-shape3.png" alt="" />
+                <img src="assets/images/shapes/why-choose-v1-shape3.png" alt="Laski mentaltrening" />
             </div>
         </div>
     </div>
@@ -393,13 +398,15 @@
             <div class="col-xl-12">
                 <div class="why-choose-one__content">
                     <div class="section-title">
-                        <span class="section-title__tagline">Why Choose Us</span>
+                        <span class="section-title__tagline">Sport Mentál Tréner És Life Coach</span>
                         <div class="section-title__line"></div>
-                        <h2 class="section-title__title">Aspect of Modern <br> Psychology <br>Therapy Agency
+                        <h2 class="section-title__title">Mi is az a <br> Coaching ?
                         </h2>
                     </div>
                     <div class="why-choose-one__content-text1">
-                        <p>Life issues that people struggle to deal with may Mental therapy Lorem text include:
+                        <p>„A tréner egy szakember, aki egy kicsit kevesebbet foglalkozik a lelkeddel, mint egy
+                            pszichológus, és a tudásoddal, mint egy tanácsadó, de erőt és eszközt ad céljaid eléréséhez,
+                            hogy sikerrel járd be a saját utadat!”
                         </p>
                     </div>
 
@@ -437,7 +444,7 @@
 
                         <div class="why-choose-one__content-bottom-counter">
                             <div class="why-choose-one__content-bottom-counter-inner">
-                                <img src="assets/images/resources/why-choose-v1-img2.png" alt="" />
+                                <img src="assets/images/resources/why-choose-v1-img2.png" alt="Laski mentaltrening" />
                                 <div class="text-box">
                                     <p>Success <br> Treatment</p>
                                     <h2>
@@ -464,17 +471,17 @@
                 <div class="col-xl-12">
                     <div class="cases-one__inner">
                         <div class="section-title">
-                            <span class="section-title__tagline">Completed Cases</span>
+                            <span class="section-title__tagline">Sport Mentál Tréner És Life Coach</span>
                             <div class="section-title__line"></div>
-                            <h2 class="section-title__title">Our Latest Success <br>
-                                Case Studies
+                            <h2 class="section-title__title">Kiknek segít a sport <br>
+                                mentáltréning ?
                             </h2>
                         </div>
-                        <div class="cases-one__top-text">
+                        <!-- <div class="cases-one__top-text">
                             <p>Lorem Ipsum available, but the majority have
                                 suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
                                 ipsum quia </p>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -510,37 +517,12 @@
                     <!--Start Cases One Single-->
                     <div class="cases-one__single">
                         <div class="cases-one__single-img">
-                            <img src="assets/images/resources/cases-v1-img1.jpg" alt="" />
+                            <img src="assets/images/resources/cases-v1-img2.jpg" alt="Laski mentaltrening" />
                         </div>
                         <div class="cases-one__single-content">
                             <div class="cases-one__single-content-top">
-                                <p>Personal Counseling</p>
-                                <h2><a href="case-single.html">Support Patients</a></h2>
-                            </div>
-                            <div class="cases-one__single-content-bottom">
-                                <div class="left-btn-box">
-                                    <a href="case-single.html">Learn More <span class="icon-right-arrow-2"></span></a>
-                                </div>
-                                <div class="right-btn-box">
-                                    <ul class="list-unstyled">
-                                        <li><a href="#"><span class="icon-link"></span></a></li>
-                                        <li><a href="#"><span class="icon-like"></span></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Cases One Single-->
-
-                    <!--Start Cases One Single-->
-                    <div class="cases-one__single">
-                        <div class="cases-one__single-img">
-                            <img src="assets/images/resources/cases-v1-img2.jpg" alt="" />
-                        </div>
-                        <div class="cases-one__single-content">
-                            <div class="cases-one__single-content-top">
-                                <p>Love Counseling</p>
-                                <h2><a href="case-single.html">Relationship Issues</a></h2>
+                                <p>A jobb teljesítményért</p>
+                                <h2><a>Sportolóknak</a></h2>
                             </div>
                             <div class="cases-one__single-content-bottom">
                                 <div class="left-btn-box">
@@ -561,12 +543,12 @@
                     <!--Start Cases One Single-->
                     <div class="cases-one__single">
                         <div class="cases-one__single-img">
-                            <img src="assets/images/resources/cases-v1-img3.jpg" alt="" />
+                            <img src="Boaz/img/services/szuloknek.jpg" alt="Laski mentaltrening" />
                         </div>
                         <div class="cases-one__single-content">
                             <div class="cases-one__single-content-top">
-                                <p>Family Counseling</p>
-                                <h2><a href="case-single.html">Family Counseling</a></h2>
+                                <p>Családi tanácsadás</p>
+                                <h2><a>Szülőknek</a></h2>
                             </div>
                             <div class="cases-one__single-content-bottom">
                                 <div class="left-btn-box">
@@ -586,12 +568,12 @@
                     <!--Start Cases One Single-->
                     <div class="cases-one__single">
                         <div class="cases-one__single-img">
-                            <img src="assets/images/resources/cases-v1-img1.jpg" alt="" />
+                            <img src="Boaz/img/services/edzo.jpg" alt="Laski mentaltrening" />
                         </div>
                         <div class="cases-one__single-content">
                             <div class="cases-one__single-content-top">
-                                <p>Personal Counseling</p>
-                                <h2><a href="case-single.html">Support Patients</a></h2>
+                                <p>Személyes tanácsadás</p>
+                                <h2><a>Edzőknek</a></h2>
                             </div>
                             <div class="cases-one__single-content-bottom">
                                 <div class="left-btn-box">
@@ -608,208 +590,6 @@
                     </div>
                     <!--End Cases One Single-->
 
-                    <!--Start Cases One Single-->
-                    <div class="cases-one__single">
-                        <div class="cases-one__single-img">
-                            <img src="assets/images/resources/cases-v1-img2.jpg" alt="" />
-                        </div>
-                        <div class="cases-one__single-content">
-                            <div class="cases-one__single-content-top">
-                                <p>Love Counseling</p>
-                                <h2><a href="case-single.html">Relationship Issues</a></h2>
-                            </div>
-                            <div class="cases-one__single-content-bottom">
-                                <div class="left-btn-box">
-                                    <a href="case-single.html">Learn More <span class="icon-right-arrow-2"></span></a>
-                                </div>
-                                <div class="right-btn-box">
-                                    <ul class="list-unstyled">
-                                        <li><a href="#"><span class="icon-link"></span></a></li>
-                                        <li><a href="#"><span class="icon-like"></span></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--End Cases One Single-->
-
-                    <!--Start Cases One Single-->
-                    <div class="cases-one__single">
-                        <div class="cases-one__single-img">
-                            <img src="assets/images/resources/cases-v1-img3.jpg" alt="" />
-                        </div>
-                        <div class="cases-one__single-content">
-                            <div class="cases-one__single-content-top">
-                                <p>Family Counseling</p>
-                                <h2><a href="case-single.html">Family Counseling</a></h2>
-                            </div>
-                            <div class="cases-one__single-content-bottom">
-                                <div class="left-btn-box">
-                                    <a href="case-single.html">Learn More <span class="icon-right-arrow-2"></span></a>
-                                </div>
-                                <div class="right-btn-box">
-                                    <ul class="list-unstyled">
-                                        <li><a href="#"><span class="icon-link"></span></a></li>
-                                        <li><a href="#"><span class="icon-like"></span></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Cases One Single-->
-
-                    <!--Start Cases One Single-->
-                    <div class="cases-one__single">
-                        <div class="cases-one__single-img">
-                            <img src="assets/images/resources/cases-v1-img1.jpg" alt="" />
-                        </div>
-                        <div class="cases-one__single-content">
-                            <div class="cases-one__single-content-top">
-                                <p>Personal Counseling</p>
-                                <h2><a href="case-single.html">Support Patients</a></h2>
-                            </div>
-                            <div class="cases-one__single-content-bottom">
-                                <div class="left-btn-box">
-                                    <a href="case-single.html">Learn More <span class="icon-right-arrow-2"></span></a>
-                                </div>
-                                <div class="right-btn-box">
-                                    <ul class="list-unstyled">
-                                        <li><a href="#"><span class="icon-link"></span></a></li>
-                                        <li><a href="#"><span class="icon-like"></span></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Cases One Single-->
-
-                    <!--Start Cases One Single-->
-                    <div class="cases-one__single">
-                        <div class="cases-one__single-img">
-                            <img src="assets/images/resources/cases-v1-img2.jpg" alt="" />
-                        </div>
-                        <div class="cases-one__single-content">
-                            <div class="cases-one__single-content-top">
-                                <p>Love Counseling</p>
-                                <h2><a href="case-single.html">Relationship Issues</a></h2>
-                            </div>
-                            <div class="cases-one__single-content-bottom">
-                                <div class="left-btn-box">
-                                    <a href="case-single.html">Learn More <span class="icon-right-arrow-2"></span></a>
-                                </div>
-                                <div class="right-btn-box">
-                                    <ul class="list-unstyled">
-                                        <li><a href="#"><span class="icon-link"></span></a></li>
-                                        <li><a href="#"><span class="icon-like"></span></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--End Cases One Single-->
-
-                    <!--Start Cases One Single-->
-                    <div class="cases-one__single">
-                        <div class="cases-one__single-img">
-                            <img src="assets/images/resources/cases-v1-img3.jpg" alt="" />
-                        </div>
-                        <div class="cases-one__single-content">
-                            <div class="cases-one__single-content-top">
-                                <p>Family Counseling</p>
-                                <h2><a href="case-single.html">Family Counseling</a></h2>
-                            </div>
-                            <div class="cases-one__single-content-bottom">
-                                <div class="left-btn-box">
-                                    <a href="case-single.html">Learn More <span class="icon-right-arrow-2"></span></a>
-                                </div>
-                                <div class="right-btn-box">
-                                    <ul class="list-unstyled">
-                                        <li><a href="#"><span class="icon-link"></span></a></li>
-                                        <li><a href="#"><span class="icon-like"></span></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Cases One Single-->
-
-                    <!--Start Cases One Single-->
-                    <div class="cases-one__single">
-                        <div class="cases-one__single-img">
-                            <img src="assets/images/resources/cases-v1-img1.jpg" alt="" />
-                        </div>
-                        <div class="cases-one__single-content">
-                            <div class="cases-one__single-content-top">
-                                <p>Personal Counseling</p>
-                                <h2><a href="case-single.html">Support Patients</a></h2>
-                            </div>
-                            <div class="cases-one__single-content-bottom">
-                                <div class="left-btn-box">
-                                    <a href="case-single.html">Learn More <span class="icon-right-arrow-2"></span></a>
-                                </div>
-                                <div class="right-btn-box">
-                                    <ul class="list-unstyled">
-                                        <li><a href="#"><span class="icon-link"></span></a></li>
-                                        <li><a href="#"><span class="icon-like"></span></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Cases One Single-->
-
-                    <!--Start Cases One Single-->
-                    <div class="cases-one__single">
-                        <div class="cases-one__single-img">
-                            <img src="assets/images/resources/cases-v1-img2.jpg" alt="" />
-                        </div>
-                        <div class="cases-one__single-content">
-                            <div class="cases-one__single-content-top">
-                                <p>Love Counseling</p>
-                                <h2><a href="case-single.html">Relationship Issues</a></h2>
-                            </div>
-                            <div class="cases-one__single-content-bottom">
-                                <div class="left-btn-box">
-                                    <a href="case-single.html">Learn More <span class="icon-right-arrow-2"></span></a>
-                                </div>
-                                <div class="right-btn-box">
-                                    <ul class="list-unstyled">
-                                        <li><a href="#"><span class="icon-link"></span></a></li>
-                                        <li><a href="#"><span class="icon-like"></span></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!--End Cases One Single-->
-
-                    <!--Start Cases One Single-->
-                    <div class="cases-one__single">
-                        <div class="cases-one__single-img">
-                            <img src="assets/images/resources/cases-v1-img3.jpg" alt="" />
-                        </div>
-                        <div class="cases-one__single-content">
-                            <div class="cases-one__single-content-top">
-                                <p>Family Counseling</p>
-                                <h2><a href="case-single.html">Family Counseling</a></h2>
-                            </div>
-                            <div class="cases-one__single-content-bottom">
-                                <div class="left-btn-box">
-                                    <a href="case-single.html">Learn More <span class="icon-right-arrow-2"></span></a>
-                                </div>
-                                <div class="right-btn-box">
-                                    <ul class="list-unstyled">
-                                        <li><a href="#"><span class="icon-link"></span></a></li>
-                                        <li><a href="#"><span class="icon-like"></span></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Cases One Single-->
                 </div>
             </div>
         </div>
@@ -862,10 +642,10 @@
                                 <div class="icon-box">
                                     <span class="icon-hand-rating-smile"></span>
                                 </div>
-                                <p>Years of experience</p>
+                                <p>A sportban már</p>
                                 <h2>
-                                    <span class="odometer" data-count="21">00</span>
-                                    <span class="plus">+</span>
+                                    <span class="odometer" data-count="25">00 </span>
+                                    <span class="plus">éve</span>
                                 </h2>
                             </li>
 
@@ -874,9 +654,10 @@
                                 <div class="icon-box">
                                     <span class="icon-award-certificate-education"></span>
                                 </div>
-                                <p>Awards Recieved</p>
+                                <p>Szakmai tapasztalat</p>
                                 <h2>
-                                    <span class="odometer" data-count="121">00</span>
+                                    <span class="odometer" data-count="15">00</span>
+                                    <span class="plus">év</span>
                                 </h2>
                             </li>
                         </ul>
@@ -887,10 +668,10 @@
                                 <div class="icon-box">
                                     <span class="icon-appreciation-best-marketing"></span>
                                 </div>
-                                <p>Case Issues Solve </p>
+                                <p>Sportolóval / ügyféllel való közös munka</p>
                                 <h2>
-                                    <span class="odometer" data-count="3141">00</span>
-                                    <span class="plus">+</span>
+                                    <span class="odometer" data-count="100">00 </span>
+                                    <span class="plus"> +</span>
                                 </h2>
                             </li>
 
@@ -899,9 +680,9 @@
                                 <div class="icon-box">
                                     <span class="icon-mail-message"></span>
                                 </div>
-                                <p>Individual Counselling</p>
+                                <p>Sikeres konzultáció</p>
                                 <h2>
-                                    <span class="odometer" data-count="2421">00</span>
+                                    <span class="odometer" data-count="250">00</span>
                                 </h2>
                             </li>
                         </ul>
@@ -917,7 +698,7 @@
                     <div class="shape3"></div>
                     <div class="shape4"></div>
                     <div class="shape5"></div>
-                    <img src="assets/images/resources/facts-counter-v1-img1.jpg" alt="" />
+                    <img src="assets/images/resources/facts-counter-v1-img1.jpg" alt="Laski mentaltrening" />
                 </div>
             </div>
             <!--End Facts Counter One Img-->
@@ -935,13 +716,12 @@
             <div class="col-xl-5">
                 <div class="testimonial-one__left">
                     <div class="section-title">
-                        <span class="section-title__tagline">Testimonial</span>
+                        <span class="section-title__tagline">Sport Mentál Tréner És Life Coach</span>
                         <div class="section-title__line"></div>
-                        <h2 class="section-title__title">What Does <br> the Client Say?
-                        </h2>
+                        <h2 class="section-title__title">Mit mondanak <br> rólam az Ügyfeleim?</h2>
                     </div>
-                    <p class="testimonial-one__text">Lorem Ipsum available, but the majority have
-                        suffered dimply free text Suspe ndisse suscipit deleo magna aliqua ipsum quia </p>
+                    <!-- <p class="testimonial-one__text">Lorem Ipsum available, but the majority have
+                        suffered dimply free text Suspe ndisse suscipit deleo magna aliqua ipsum quia </p> -->
                 </div>
             </div>
             <!--End Testimonial One Left-->
@@ -981,7 +761,8 @@
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-details">
                                     <div class="testimonial-one__client-img">
-                                        <img src="assets/images/testimonial/testimonial-one-client-img-1.png" alt="">
+                                        <img src="assets/images/testimonial/testimonial-one-client-img-1.png"
+                                            alt="Laski mentaltrening">
                                     </div>
                                     <div class="testimonial-one__client-content">
                                         <h4>Alexa Ronobs</h4>
@@ -1003,7 +784,8 @@
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-details">
                                     <div class="testimonial-one__client-img">
-                                        <img src="assets/images/testimonial/testimonial-one-client-img-2.png" alt="">
+                                        <img src="assets/images/testimonial/testimonial-one-client-img-2.png"
+                                            alt="Laski mentaltrening">
                                     </div>
                                     <div class="testimonial-one__client-content">
                                         <h4>John Wiliam</h4>
@@ -1025,7 +807,8 @@
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-details">
                                     <div class="testimonial-one__client-img">
-                                        <img src="assets/images/testimonial/testimonial-one-client-img-1.png" alt="">
+                                        <img src="assets/images/testimonial/testimonial-one-client-img-1.png"
+                                            alt="Laski mentaltrening">
                                     </div>
                                     <div class="testimonial-one__client-content">
                                         <h4>Alexa Ronobs</h4>
@@ -1047,7 +830,8 @@
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-details">
                                     <div class="testimonial-one__client-img">
-                                        <img src="assets/images/testimonial/testimonial-one-client-img-2.png" alt="">
+                                        <img src="assets/images/testimonial/testimonial-one-client-img-2.png"
+                                            alt="Laski mentaltrening">
                                     </div>
                                     <div class="testimonial-one__client-content">
                                         <h4>John Wiliam</h4>
@@ -1069,7 +853,8 @@
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-details">
                                     <div class="testimonial-one__client-img">
-                                        <img src="assets/images/testimonial/testimonial-one-client-img-1.png" alt="">
+                                        <img src="assets/images/testimonial/testimonial-one-client-img-1.png"
+                                            alt="Laski mentaltrening">
                                     </div>
                                     <div class="testimonial-one__client-content">
                                         <h4>Alexa Ronobs</h4>
@@ -1091,7 +876,8 @@
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-details">
                                     <div class="testimonial-one__client-img">
-                                        <img src="assets/images/testimonial/testimonial-one-client-img-2.png" alt="">
+                                        <img src="assets/images/testimonial/testimonial-one-client-img-2.png"
+                                            alt="Laski mentaltrening">
                                     </div>
                                     <div class="testimonial-one__client-content">
                                         <h4>John Wiliam</h4>
@@ -1128,7 +914,7 @@
                 <div class="blog-one__single">
                     <div class="blog-one__single-img">
                         <div class="blog-one__single-img-inner">
-                            <img src="assets/images/blog/blog-v1-img1.jpg" alt="" />
+                            <img src="assets/images/blog/blog-v1-img1.jpg" alt="Laski mentaltrening" />
                         </div>
                         <div class="blog-one__single-img-text">
                             <span>Counselor</span>
@@ -1181,7 +967,7 @@
                 <div class="blog-one__single">
                     <div class="blog-one__single-img">
                         <div class="blog-one__single-img-inner">
-                            <img src="assets/images/blog/blog-v1-img2.jpg" alt="" />
+                            <img src="assets/images/blog/blog-v1-img2.jpg" alt="Laski mentaltrening" />
                         </div>
                         <div class="blog-one__single-img-text">
                             <span>Counselor</span>
@@ -1234,7 +1020,7 @@
                 <div class="blog-one__single">
                     <div class="blog-one__single-img">
                         <div class="blog-one__single-img-inner">
-                            <img src="assets/images/blog/blog-v1-img3.jpg" alt="" />
+                            <img src="assets/images/blog/blog-v1-img3.jpg" alt="Laski mentaltrening" />
                         </div>
                         <div class="blog-one__single-img-text">
                             <span>Counselor</span>
@@ -1285,191 +1071,3 @@
     </div>
 </section>
 <!--End Blog One-->
-
-
-<!--Start Site Footer-->
-<footer class="site-footer">
-    <div class="site-footer-bg" style="background-image: url(assets/images/backgrounds/footer-v1-bg.jpg);">
-    </div>
-    <div class="site-footer__top">
-        <div class="container">
-            <div class="row">
-
-                <!--Start Footer Widget Column-->
-                <div class="col-xl-3 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s">
-                    <div class="footer-widget__column footer-widget__about">
-                        <div class="footer-widget__logo">
-                            <a href="index.html"><img src="assets/images/resources/footer-logo.png" alt=""></a>
-                        </div>
-                        <div class="footer-widget__about-text-box">
-                            <p class="footer-widget__about-text">Counselling psychologists work with clients to
-                                help them improve their mental health and emotional
-                                wellbeing we are here</p>
-                        </div>
-                    </div>
-                </div>
-                <!--End Footer Widget Column-->
-
-                <!--Start Footer Widget Column-->
-                <div class="col-xl-3 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.3s">
-                    <div class="footer-widget__column footer-widget__contact clearfix">
-                        <div class="footer-widget__title-box">
-                            <h3 class="footer-widget__title">Contact</h3>
-                        </div>
-                        <ul class="footer-widget__contact-list list-unstyled clearfix">
-                            <li>
-                                <div class="icon">
-                                    <span class="icon-email-1"></span>
-                                </div>
-                                <div class="text">
-                                    <p><a href="mailto:helpus24@gmail.com">helpus24@gmail.com</a></p>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="icon">
-                                    <span class="icon-phone"></span>
-                                </div>
-                                <div class="text">
-                                    <p><a href="tel:0881122334455">+088 11 22 33 44 55</a></p>
-                                </div>
-                            </li>
-                            <li>
-                                <div class="icon">
-                                    <span class="icon-location"></span>
-                                </div>
-                                <div class="text">
-                                    <p>Aski RA4, Suite 14545 <br> Melbourne Australia</p>
-                                </div>
-                            </li>
-                        </ul>
-                        <ul class="footer-widget__contact-social-link">
-                            <li>
-                                <a href="#"><span class="fab fa-facebook-f"></span></a>
-                            </li>
-                            <li>
-                                <a href="#"><span class="fab fa-twitter"></span></a>
-                            </li>
-                            <li>
-                                <a href="#"><span class="fab fa-pinterest-p"></span></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <!--End Footer Widget Column-->
-
-                <!--Start Footer Widget Column-->
-                <div class="col-xl-2 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.5s">
-                    <div class="footer-widget__column footer-widget__service clearfix">
-                        <div class="footer-widget__title-box">
-                            <h3 class="footer-widget__title">Services</h3>
-                        </div>
-                        <ul class="footer-widget__service-list list-unstyled clearfix">
-                            <li><a href="#">Personal Meeting</a></li>
-                            <li><a href="#">Anxiety Disorder</a></li>
-                            <li><a href="#">Couple Problems</a></li>
-                            <li><a href="#">Depression therapy</a></li>
-                            <li><a href="#">Individual therapy</a></li>
-                            <li><a href="#">Family case</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <!--End Footer Widget Column-->
-
-                <!--Start Footer Widget Column-->
-                <div class="col-xl-4 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.7s">
-                    <div class="footer-widget__column footer-widget__newsletter clearfix">
-                        <div class="footer-widget__title-box">
-                            <h3 class="footer-widget__title">Newsletter</h3>
-                        </div>
-                        <p class="footer-widget__newsletter-text">Subscribe us & get news, articles to your
-                            inbox.</p>
-                        <form class="footer-widget__subscribe-box">
-                            <div class="footer-widget__subscribe-input-box">
-                                <input type="email" placeholder="Email address" name="email">
-                                <button type="submit" class="footer-widget__subscribe-btn"><i
-                                        class="icon-send"></i></button>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-                <!--End Footer Widget Column-->
-            </div>
-        </div>
-    </div>
-
-    <div class="site-footer__bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-12">
-                    <div class="site-footer__bottom-inner">
-                        <p class="site-footer__bottom-text">© 2022 <a href="index.html">Sycols.com</a>
-                            All Rights Reserved</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</footer>
-<!--End Site Footer-->
-
-
-</div><!-- /.page-wrapper -->
-
-
-<div class="mobile-nav__wrapper">
-    <div class="mobile-nav__overlay mobile-nav__toggler"></div>
-    <!-- /.mobile-nav__overlay -->
-    <div class="mobile-nav__content">
-        <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
-
-        <div class="logo-box">
-            <a href="index.html" aria-label="logo image"><img src="assets/images/resources/footer-logo.png" width="143"
-                    alt="" /></a>
-        </div>
-        <!-- /.logo-box -->
-        <div class="mobile-nav__container"></div>
-        <!-- /.mobile-nav__container -->
-
-        <ul class="mobile-nav__contact list-unstyled">
-            <li>
-                <i class="fa fa-envelope"></i>
-                <a href="mailto:needhelp@packageName__.com">needhelp@sycols.com</a>
-            </li>
-            <li>
-                <i class="fa fa-phone-alt"></i>
-                <a href="tel:666-888-0000">666 888 0000</a>
-            </li>
-        </ul><!-- /.mobile-nav__contact -->
-        <div class="mobile-nav__top">
-            <div class="mobile-nav__social">
-                <a href="#" class="fab fa-twitter"></a>
-                <a href="#" class="fab fa-facebook-square"></a>
-                <a href="#" class="fab fa-pinterest-p"></a>
-                <a href="#" class="fab fa-instagram"></a>
-            </div><!-- /.mobile-nav__social -->
-        </div><!-- /.mobile-nav__top -->
-
-
-
-    </div>
-    <!-- /.mobile-nav__content -->
-</div>
-<!-- /.mobile-nav__wrapper -->
-
-<div class="search-popup">
-    <div class="search-popup__overlay search-toggler"></div>
-    <!-- /.search-popup__overlay -->
-    <div class="search-popup__content">
-        <form action="#">
-            <label for="search" class="sr-only">search here</label><!-- /.sr-only -->
-            <input type="text" id="search" placeholder="Search Here..." />
-            <button type="submit" aria-label="search submit" class="thm-btn">
-                <i class="icon-search"></i>
-            </button>
-        </form>
-    </div>
-    <!-- /.search-popup__content -->
-</div>
-<!-- /.search-popup -->
-
-<a href="#" data-target="html" class="scroll-to-target scroll-to-top"><i class="fa fa-angle-up"></i></a>

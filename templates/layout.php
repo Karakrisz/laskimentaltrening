@@ -44,6 +44,7 @@
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/sycols.css" />
     <link rel="stylesheet" href="assets/css/sycols-responsive.css" />
+    <link rel="stylesheet" href="Boaz/css/style.css" />
 </head>
 
 <body class="custom-cursor">

@@ -1,0 +1,159 @@
+/********************  Boaz formating start **********************/
+
+
+/********************  Elements display none start **********************/
+
+.team-one--about,
+.blog-one,
+.support-one--about,
+.service-details__brochures,
+.support-one--services,
+.support-one,
+.cases-one__single-content-bottom,
+.about-one__content-bottom,
+.why-choose-one__content-text2,
+.why-choose-one__content-bottom {
+    display: none;
+}
+
+
+/********************   Elements display none  end **********************/
+
+
+/********************   Header display none  start **********************/
+
+.icon-search:before {
+    content: "\e911";
+}
+
+
+/********************   Header display none  end **********************/
+
+
+/********************  About page start **********************/
+
+.section-body,
+.services-single-page__content-text-box1 {
+    background-color: #fdf6f5;
+    padding: 3em 4em;
+    border-radius: 2em;
+}
+
+.testimonial-one__text--margin {
+    margin: 2.5em 0;
+}
+
+
+/********************  About page end **********************/
+
+
+/********************  Services page start **********************/
+
+.services-single-page__content-text-box1 {
+    margin-top: 6em;
+}
+
+.services-single-page__content-text-box1 .text2 {
+    margin-bottom: 2em;
+}
+
+.services-one__single-content {
+    height: 400px;
+}
+
+.text3 {
+    font-size: 18px;
+}
+
+.text1__link:hover {
+    color: #fff;
+    background: #d0807a;
+    padding: 0.5em 0.9em;
+}
+
+.services-one__single-content .btn-box {
+    position: absolute;
+    bottom: 4em;
+}
+
+.services-one__single-img img {
+    height: 280px;
+    object-fit: cover;
+}
+
+
+/********************  Services page end **********************/
+
+
+/********************  Contact page start **********************/
+
+.google-map__one {
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    filter: grayscale(100%);
+}
+
+.contact-page__top-single {
+    width: 30%;
+}
+
+
+/********************  Contact page end **********************/
+
+
+/********************  Footer page start **********************/
+
+.footer-widget__contact {
+    margin-left: 6em;
+}
+
+.footer-widget__service {
+    margin-left: 8em;
+}
+
+
+/********************  Footer page end **********************/
+
+
+/********************  Media start **********************/
+
+@media screen and (max-width: 1199px) {
+    .contact-page__top-single {
+        width: 25%;
+    }
+    .footer-widget__service,
+    .footer-widget__contact {
+        margin-left: 0;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .site-footer__top {
+        padding-left: 1em;
+    }
+    .section-title__title {
+        font-size: 38px;
+        line-height: 40px;
+        margin-top: 0.3em;
+    }
+    .services-one__single-content {
+        height: 100%;
+        padding: 1.7em;
+    }
+    .services-one__single-content .btn-box {
+        position: relative;
+        bottom: 0;
+        float: left;
+    }
+    .contact-page__top-single {
+        width: 100%;
+    }
+}
+
+
+/********************  Media end **********************/
+
+
+/********************  Boaz formating end **********************/
