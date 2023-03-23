@@ -18,7 +18,7 @@
                                                     class="icon-right-arrow"></span></a></li>
                                         <li><a href="/taboroztatas">Táboroztatás<span
                                                     class="icon-right-arrow"></span></a></li>
-                                        <li><a href="/senior-torna">Senior torna<span
+                                        <li><a href="/senior-torna">Női / Senior torna<span
                                                     class="icon-right-arrow"></span></a></li>
                                     </ul>
                                 </div>
@@ -46,12 +46,12 @@
                             <div class="services-single-page__sidebar-single wow animated fadeInUp"
                                 data-wow-delay="0.3s">
                                 <div class="services-single-page__contact-box"
-                                    style="background-image: url(assets/images/resources/services-single-page-bg-img1.jpg);">
+                                    style="background-image: url(Boaz/img/kerdesevan.jpg);">
                                     <div class="icon-box">
                                         <span class="icon-brain"></span>
                                     </div>
                                     <h2>Kérdésed van? </h2>
-                                    <p>Hívj bizalommal </p>
+                                    <p>Keress minket bizalommal</p>
                                     <h5><a href="tel:+36707788589">+36 70 778 8589</a></h5>
                                 </div>
                             </div>
@@ -90,7 +90,7 @@
                                 <p class="text1">Egyéni sport mentáltréning</p>
                             </div>
 
-                            <div class="services-single-page__content-text-box3">
+                            <div id="sportoloknak" class="services-single-page__content-text-box3">
                                 <div class="title">
                                     <h2>Sportolóknak</h2>
                                 </div>
@@ -199,7 +199,7 @@
                                 </ul>
                             </div>
 
-                            <div class="services-single-page__content-text-box3">
+                            <div id="szuloknek" class="services-single-page__content-text-box3">
                                 <div class="title">
                                     <h2>Szülőknek</h2>
                                 </div>
@@ -270,7 +270,7 @@
                                 </ul>
                             </div>
 
-                            <div class="services-single-page__content-text-box3">
+                            <div id="edzoknek" class="services-single-page__content-text-box3">
                                 <div class="title">
                                     <h2>Edzőknek</h2>
                                 </div>
@@ -394,7 +394,7 @@
                                                     <span class="icon-thinking-person"></span>
                                                 </div>
                                                 <div class="title-box">
-                                                    <h2><a href="#">Individual <br> Counseling</a></h2>
+                                                    <h2><a>Egyedi <br> Tanácsadás</a></h2>
                                                 </div>
                                             </div>
                                             <div class="text">
@@ -411,7 +411,7 @@
                                                     <span class="icon-group"></span>
                                                 </div>
                                                 <div class="title-box">
-                                                    <h2><a href="#">Group <br>Counseling</a></h2>
+                                                    <h2><a>Csoportos <br> Tanácsadás</a></h2>
                                                 </div>
                                             </div>
                                             <div class="text">

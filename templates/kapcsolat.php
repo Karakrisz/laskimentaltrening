@@ -1,11 +1,13 @@
         <!--Start Page Header-->
         <section class="page-header">
             <div class="shape1 float-bob-y"></div>
-            <div class="shape2 float-bob-y"><img src="assets/images/shapes/page-header-shape1.png" alt="" /></div>
+            <div class="shape2 float-bob-y"><img src="assets/images/shapes/page-header-shape1.png"
+                    alt="Laski mentaltrening" /></div>
             <div class="shape3 float-bob-y"></div>
             <div class="shape4 float-bob-y"></div>
-            <div class="shape5 float-bob-y"><img src="assets/images/shapes/page-header-shape2.png" alt="" /></div>
-            <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-img.jpg)">
+            <div class="shape5 float-bob-y"><img src="assets/images/shapes/page-header-shape2.png"
+                    alt="Laski mentaltrening" /></div>
+            <div class="page-header-bg" style="background-image: url(Boaz/img/kapcsolat.jpg)">
             </div>
             <div class="container">
                 <div class="page-header__inner">
@@ -20,16 +22,6 @@
         </section>
         <!--End Page Header-->
 
-        <!--Start Google Map-->
-        <section class="google-map">
-
-            <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2753.786473510545!2d17.79034461549128!3d46.353782081664896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476815fd2a025a27%3A0xf874dc0289882f44!2zS2Fwb3N2w6FyLCBQZXTFkWZpIHTDqXIsIDc0MDA!5e0!3m2!1shu!2shu!4v1676821772668!5m2!1shu!2shu"
-                class="google-map__one" allowfullscreen="" loading="lazy"
-                referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-        </section>
-        <!--End Google Map-->
 
         <!--Start Contact Page-->
         <section class="contact-page">
@@ -49,7 +41,7 @@
                             </div>
                             <div class="content">
                                 <h2>Cím:</h2>
-                                <p>Petőfi tér <br> Kaposvár, Hungary</p>
+                                <p>Petőfi tér 4 <br> Kaposvár, Hungary</p>
                             </div>
                         </li>
                         <!--End Contact Page Top single-->
@@ -128,6 +120,16 @@
         </section>
         <!--End Contact Page-->
 
+        <!--Start Google Map-->
+        <section class="google-map">
+
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2753.786473510545!2d17.79034461549128!3d46.353782081664896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476815fd2a025a27%3A0xf874dc0289882f44!2zS2Fwb3N2w6FyLCBQZXTFkWZpIHTDqXIsIDc0MDA!5e0!3m2!1shu!2shu!4v1676821772668!5m2!1shu!2shu"
+                class="google-map__one" allowfullscreen="" loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+        </section>
+        <!--End Google Map-->
 
         <!--Start Support One-->
         <section class="support-one support-one--services">
@@ -173,7 +175,8 @@
                                 <div class="support-one__right-left">
                                     <div class="shape1"></div>
                                     <div class="support-one__right-img">
-                                        <img src="assets/images/resources/support-v1-img3.png" alt="" />
+                                        <img src="assets/images/resources/support-v1-img3.png"
+                                            alt="Laski mentaltrening" />
                                         <div class="support-one__right-left-content">
                                             <p>Family <br>Counseling</p>
                                             <h2>

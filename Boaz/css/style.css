@@ -1,5 +1,15 @@
 /********************  Boaz formating start **********************/
 
+:root {
+    --sycols-base: #DCC48E;
+    --sycols-black: #128275;
+}
+
+ol,
+ul {
+    padding-left: 1rem;
+}
+
 
 /********************  Elements display none start **********************/
 
@@ -12,22 +22,84 @@
 .cases-one__single-content-bottom,
 .about-one__content-bottom,
 .why-choose-one__content-text2,
-.why-choose-one__content-bottom {
+.why-choose-one__content-bottom,
+.about-one__img2-inner img,
+.about-one__content-bottom,
+.about-one__content-text2-img,
+.why-choose-one__services-box,
+.video-one__bg::before,
+.testimonial-one__client-details,
+.services-single-page__faq,
+.services-single-page__content-text-box3-single .text,
+.contact-page__bottom {
     display: none;
+}
+
+.main-header__top-logo__link__img,
+.services-one__single-img img,
+.facts-counter-one__img img,
+.owl-carousel .owl-item img {
+    object-fit: cover;
 }
 
 
 /********************   Elements display none  end **********************/
 
 
-/********************   Header display none  start **********************/
+/******************** Header start **********************/
 
 .icon-search:before {
     content: "\e911";
 }
 
+.main-menu__wrapper {
+    background: #071013;
+}
 
-/********************   Header display none  end **********************/
+.main-header__top-logo__link__img {
+    width: 231px;
+    height: 100px;
+    margin-top: -2em;
+}
+
+
+/******************** Header end **********************/
+
+
+/******************** slider start **********************/
+
+.main-slider__nav .swiper-button-next:hover,
+.main-slider__nav .swiper-button-prev:hover {
+    background-color: #DCC48E;
+}
+
+.main-slider .swiper-slide .shape2,
+.main-slider .swiper-slide .shape1 {
+    background: #128C7E;
+}
+
+
+/******************** slider end **********************/
+
+
+/******************** Why choose one start **********************/
+
+.why-choose-one__content-text1 p {
+    color: var(--sycols-black);
+}
+
+
+/********************  Cases One start **********************/
+
+.owl-carousel .owl-item img {
+    height: 250px;
+}
+
+
+/********************  Cases One end **********************/
+
+
+/******************** Why choose one end **********************/
 
 
 /********************  About page start **********************/
@@ -43,11 +115,40 @@
     margin: 2.5em 0;
 }
 
+.about-one__content-text2 {
+    display: unset;
+}
+
+.about-one__content-text2-list {
+    padding-left: 0;
+}
+
+.about-one__content-text2-list li p {
+    line-height: 50px;
+}
+
+.about-one__img-text {
+    width: 200px;
+    background: #128C7E;
+}
+
+.about-one__img .border {
+    top: 30px;
+}
+
 
 /********************  About page end **********************/
 
 
 /********************  Services page start **********************/
+
+.services-one__single-content {
+    padding: 2rem;
+}
+
+.services-single-page {
+    padding: 1rem 0 7rem 0;
+}
 
 .services-single-page__content-text-box1 {
     margin-top: 6em;
@@ -58,7 +159,7 @@
 }
 
 .services-one__single-content {
-    height: 400px;
+    height: 370px;
 }
 
 .text3 {
@@ -78,11 +179,127 @@
 
 .services-one__single-img img {
     height: 280px;
-    object-fit: cover;
+}
+
+.services-one__single-img-icon-inner {
+    background: #128C7E;
+}
+
+.services-single-page__content-img1 img {
+    width: 100%;
+    -webkit-filter: unset;
+    -ms-filter: unset;
+    -moz-filter: unset;
+    filter: unset;
+}
+
+.services-single-page__content-text-box2 {
+    padding: 3em 4em;
+}
+
+.services-single-page__content-text-box3 {
+    padding: 0 4em;
+    margin: 0;
 }
 
 
 /********************  Services page end **********************/
+
+
+/********************  Reference page start **********************/
+
+.reference-img-text-box {
+    padding: 6rem 8.7rem 3rem 9.5rem;
+}
+
+.reference-img-text-box__img {
+    height: 530px !important;
+}
+
+.reference-img-text-box__h2 {
+    margin-bottom: 0.5rem;
+}
+
+.cases-one__single-content-top {
+    padding: 1rem;
+}
+
+
+/********************  Reference page end **********************/
+
+
+/********************  Why choose one page start **********************/
+
+.why-choose-one__services-box h2 {
+    margin: 0 0 0.7em 0;
+}
+
+
+/********************  Why choose one page end **********************/
+
+
+/********************  Video one one page start **********************/
+
+.video-one--margin {
+    margin-top: 9em;
+}
+
+.video-one__content h2 {
+    font-size: 60px;
+}
+
+
+/********************  Video one one page end **********************/
+
+
+/********************  Facts counter one page start **********************/
+
+.facts-counter-one__img img {
+    height: 500px;
+}
+
+
+/********************  Facts counter one page end **********************/
+
+
+/******************** Testimonial one page start **********************/
+
+.testimonial-one__client-info {
+    justify-content: end;
+}
+
+
+/******************** Testimonial one page end **********************/
+
+
+/********************  Footer page start **********************/
+
+.site-footer-bg {
+    background: #272727;
+}
+
+.footer-widget__contact {
+    margin-left: 6em;
+}
+
+.footer-widget__service {
+    margin-left: 8em;
+}
+
+.site-footer__bottom {
+    background-color: #071013;
+}
+
+.footer-widget__contact-social-link li a {
+    background: #128C7E;
+}
+
+.footer-widget__logo__link__img {
+    width: 250px;
+}
+
+
+/********************  Footer page end **********************/
 
 
 /********************  Contact page start **********************/
@@ -103,20 +320,6 @@
 /********************  Contact page end **********************/
 
 
-/********************  Footer page start **********************/
-
-.footer-widget__contact {
-    margin-left: 6em;
-}
-
-.footer-widget__service {
-    margin-left: 8em;
-}
-
-
-/********************  Footer page end **********************/
-
-
 /********************  Media start **********************/
 
 @media screen and (max-width: 1199px) {
@@ -130,6 +333,24 @@
 }
 
 @media screen and (max-width: 767px) {
+    .about-one__img-text {
+        display: none;
+    }
+    .about-one__content-text2-list li p {
+        width: 100%;
+    }
+    .about-one {
+        padding: 120px 0px 50px;
+    }
+    .about-one__content,
+    .why-choose-one__content,
+    .one__inner,
+    .testimonial-one__left {
+        padding: 0 0.5em;
+    }
+    .owl-carousel .owl-item img {
+        height: 100%;
+    }
     .site-footer__top {
         padding-left: 1em;
     }
@@ -149,6 +370,31 @@
     }
     .contact-page__top-single {
         width: 100%;
+    }
+    .why-choose-one__inner .shape1,
+    .why-choose-one__inner .shape2,
+    .why-choose-one__inner .shape3 {
+        display: block;
+    }
+    .why-choose-one__bg {
+        height: 250px;
+    }
+    .section-body,
+    .services-single-page__content-text-box1,
+    .services-single-page__content-text-box2 {
+        padding: 3em 2em;
+    }
+    .services-single-page__content-text-box3 {
+        padding: 0 2em;
+    }
+    .video-one__content h2 {
+        font-size: 4vh;
+    }
+    .footer-widget__logo__link__img {
+        width: 100%;
+    }
+    .reference-img-text-box {
+        padding: 2rem 1.3rem 3rem 1.3rem;
     }
 }
 

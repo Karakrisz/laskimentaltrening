@@ -12,7 +12,8 @@
             <div class="main-header__top-inner clearfix">
                 <div class="main-header__top-left">
                     <div class="main-header__top-logo">
-                        <a href="/"><img src="" alt="Laski mentaltrening"></a>
+                        <a class="main-header__top-logo__link" href="/"><img class="main-header__top-logo__link__img"
+                                src="Boaz/img/logo.png" alt="Laski mentaltrening"></a>
                     </div>
                 </div>
 
@@ -33,7 +34,7 @@
                                 <span class="icon-location"></span>
                             </div>
                             <div class="content">
-                                <h5>Petőfi tér <br> Kaposvár, Hungary</h5>
+                                <h5>Petőfi tér 4 <br> Kaposvár, Hungary</h5>
                             </div>
                         </li>
                     </ul>
@@ -66,7 +67,7 @@
                                         <li><a href="/sport-mentaltrening">Sport mentáltréning</a></li>
                                         <li><a href="/taboroztatas">Táboroztatas</a>
                                         </li>
-                                        <li><a href="/senior-torna">Senior torna</a></li>
+                                        <li><a href="/senior-torna">Női / Senior torna</a></li>
                                     </ul>
                                 </li>
                                 <li>
@@ -86,7 +87,8 @@
                         <ul class="main-menu__right-social-link list-unstyled">
                             <li><a target="_blank" href="https://www.facebook.com/laskisportmentaltrener"><span
                                         class="fab fa-facebook-f"></span></a></li>
-                            <li><a href="#"><span class="fab fa-instagram"></span></a></li>
+                            <li><a target="_blank" href="https://www.instagram.com/mentaltrening_mindenkinek"><span
+                                        class="fab fa-instagram"></span></a></li>
                         </ul>
                         <div class="main-menu__search-box">
                             <!-- <a href="#" class="main-menu__search search-toggler icon-search"></a> -->

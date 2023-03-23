@@ -18,7 +18,7 @@
                                                     class="icon-right-arrow"></span></a></li>
                                         <li><a href="/taboroztatas">Táboroztatás<span
                                                     class="icon-right-arrow"></span></a></li>
-                                        <li class="active"><a href="/senior-torna">Senior torna<span
+                                        <li class="active"><a href="/senior-torna">Női / Senior torna<span
                                                     class="icon-right-arrow"></span></a></li>
                                     </ul>
                                 </div>
@@ -46,12 +46,12 @@
                             <div class="services-single-page__sidebar-single wow animated fadeInUp"
                                 data-wow-delay="0.3s">
                                 <div class="services-single-page__contact-box"
-                                    style="background-image: url(assets/images/resources/services-single-page-bg-img1.jpg);">
+                                    style="background-image: url(Boaz/img/kerdesevan.jpg);">
                                     <div class="icon-box">
                                         <span class="icon-brain"></span>
                                     </div>
                                     <h2>Kérdésed van? </h2>
-                                    <p>Hívj bizalommal </p>
+                                    <p>Keress minket bizalommal</p>
                                     <h5><a href="tel:+36707788589">+36 70 778 8589</a></h5>
                                 </div>
                             </div>
@@ -68,24 +68,30 @@
 
                             <div class="services-single-page__content-text-box1">
                                 <div class="title">
-                                    <h2>Senior torna</h2>
+                                    <h2>Női / Senior torna</h2>
                                 </div>
                                 <p class="text1">Könnyed torna mobilizáló, erősítő és egyensúlyt fejlesztő
                                     gyakorlatokkal, mely elsősorban az 50-60 feletti korosztályt célozza meg. Az órán
                                     lévő gyakorlatok könnyen elvégezhetőek. Nagy hangsúlyt fektetnünk a gerinc
                                     stabilizáló izmainak erősítésére, mobilizálására.</p>
 
-                                <p class="text2">A gyakorlatokat természetesen vidám zene kíséretében végezzük és az
+                                <p class="text1">A gyakorlatokat természetesen vidám zene kíséretében végezzük és az
                                     órákon használunk óriás labdát, gumikötelet, gumiszalagot, kis labdát, amelyek
                                     változatossá, hangulatossá teszik az edzéseket. Érezzük jól magunkat, miközben
                                     teszünk az egészségünkért is!
                                 </p>
 
-                                <p class="text3">Ha szeretnél egy vidám csapatban, kellemes zenére, de ugyanakkor
+                                <p class="text1">Ha szeretnél egy vidám csapatban, kellemes zenére, de ugyanakkor
                                     kíméletesen mozogni, akkor keress bátran. Érezzük jól magunkat, miközben teszünk az
                                     egészségünkért is!
-                                    A torna időpontja minden péntek, 8:00-8:50, helyszín: Vadvirág Alapítvány, Fő utca
-                                    57.
+
+                                </p>
+                                <p class="text1">
+                                    A torna időpontja:
+                                <ul>
+                                    <li>Női torna időpontja: szerda 19:00-19:50</li>
+                                    <li>Senior torna időpontja: péntek 8:00-8:50</li>
+                                </ul>
                                 </p>
                             </div>
 
@@ -99,7 +105,7 @@
                                                     <span class="icon-thinking-person"></span>
                                                 </div>
                                                 <div class="title-box">
-                                                    <h2><a href="#">Individual <br> Counseling</a></h2>
+                                                    <h2><a>Egyedi <br> Tanácsadás</a></h2>
                                                 </div>
                                             </div>
                                             <div class="text">
@@ -116,7 +122,7 @@
                                                     <span class="icon-group"></span>
                                                 </div>
                                                 <div class="title-box">
-                                                    <h2><a href="#">Group <br>Counseling</a></h2>
+                                                    <h2><a>Csoportos <br> Tanácsadás</a></h2>
                                                 </div>
                                             </div>
                                             <div class="text">

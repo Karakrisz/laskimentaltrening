@@ -12,7 +12,7 @@
     <div class="shape4 float-bob-y"></div>
     <div class="shape5 float-bob-y"><img src="assets/images/shapes/page-header-shape2.png" alt="Laski mentaltrening" />
     </div>
-    <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-img.jpg)">
+    <div class="page-header-bg" style="background-image: url(Boaz/img/subpage.jpg)">
     </div>
     <div class="container">
         <div class="page-header__inner">
@@ -45,7 +45,7 @@
                         <div class="line1 float-bob-y"></div>
                         <div class="line2 float-bob-y"></div>
                         <div class="line3 float-bob-y"></div>
-                        <img src="assets/images/about/about-v1-img1.jpg" alt="Laski mentaltrening" />
+                        <img src="Boaz/img/magam.jpg" alt="Laski mentaltrening" />
                     </div>
                     <div class="about-one__img2">
                         <div class="about-one__img2-inner">
@@ -58,7 +58,7 @@
                             <div class="icon">
                                 <span class="icon-valentines-couple"></span>
                             </div>
-                            <p>Best Couple <br>Counselling</p>
+                            <p>Sport <br>mentáltréning</p>
                         </div>
                     </div>
                 </div>
@@ -234,32 +234,10 @@
                                     }'>
                         <!--Start Testimonial One Single-->
                         <div class="testimonial-one__single">
-                            <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                ipsum quia</p>
-                            <div class="testimonial-one__client-info">
-                                <div class="testimonial-one__client-details">
-                                    <div class="testimonial-one__client-img">
-                                        <img src="assets/images/testimonial/testimonial-one-client-img-3.png"
-                                            alt="Laski mentaltrening">
-                                    </div>
-                                    <div class="testimonial-one__client-content">
-                                        <h4>Robert Anton</h4>
-                                        <p>Therapy Specialist</p>
-                                    </div>
-                                </div>
-                                <div class="testimonial-one__quote">
-                                    <span class="icon-quote"></span>
-                                </div>
-                            </div>
-                        </div>
-                        <!--End Testimonial One Single-->
-
-                        <!--Start Testimonial One Single-->
-                        <div class="testimonial-one__single">
-                            <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                ipsum quia</p>
+                            <p class="testimonial-one__text-2">Ajánlom mindenkinek Vivit, akinek mentálisan szüksége
+                                van a sikeres
+                                eredményhez. Hatalmas erőt ad és nagyon jó társaság! Lányomnak is ő segített az
+                                Európa Bajnoki cím elérésében.</p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-details">
                                     <div class="testimonial-one__client-img">
@@ -280,13 +258,16 @@
 
                         <!--Start Testimonial One Single-->
                         <div class="testimonial-one__single">
-                            <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                ipsum quia</p>
+                            <p class="testimonial-one__text-2">Nekem nagyon sokat segített: segített megküzdeni a
+                                hétköznapokkal, hogy
+                                könnyebb legyen, hogyan tanuljak meg kikapcsolni, relaxálni. Más lett a
+                                gondolkodásom és sokkal könnyebben tudok tanulni. És a legfontosabb, hogy
+                                megtanultam magamat értékelni, illetve rengeteg önbizalmam lett és felerősödött,
+                                ami a jövőmre nézve igen fontos lesz. Köszönök mindent.</p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-details">
                                     <div class="testimonial-one__client-img">
-                                        <img src="assets/images/testimonial/testimonial-one-client-img-4.png"
+                                        <img src="assets/images/testimonial/testimonial-one-client-img-2.png"
                                             alt="Laski mentaltrening">
                                     </div>
                                     <div class="testimonial-one__client-content">
@@ -303,32 +284,11 @@
 
                         <!--Start Testimonial One Single-->
                         <div class="testimonial-one__single">
-                            <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                ipsum quia</p>
-                            <div class="testimonial-one__client-info">
-                                <div class="testimonial-one__client-details">
-                                    <div class="testimonial-one__client-img">
-                                        <img src="assets/images/testimonial/testimonial-one-client-img-3.png"
-                                            alt="Laski mentaltrening">
-                                    </div>
-                                    <div class="testimonial-one__client-content">
-                                        <h4>Robert Anton</h4>
-                                        <p>Therapy Specialist</p>
-                                    </div>
-                                </div>
-                                <div class="testimonial-one__quote">
-                                    <span class="icon-quote"></span>
-                                </div>
-                            </div>
-                        </div>
-                        <!--End Testimonial One Single-->
-
-                        <!--Start Testimonial One Single-->
-                        <div class="testimonial-one__single">
-                            <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                ipsum quia</p>
+                            <p class="testimonial-one__text-2">Vivi kiváló szakember, aki a maximumot és még annál
+                                többet is kihozta a
+                                gyerekemből, folyamatosan azt erősítve, hogy mennyire jó és bármire képes.
+                                Mindenkinek csak ajánlani tudom! Kedves, szeretni való, türelmes szakember, aki
+                                kiválóan bánik a gyerekekkel.</p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-details">
                                     <div class="testimonial-one__client-img">
@@ -349,13 +309,14 @@
 
                         <!--Start Testimonial One Single-->
                         <div class="testimonial-one__single">
-                            <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                ipsum quia</p>
+                            <p class="testimonial-one__text-2">Nem ígért csodát és nem
+                                hitegetett, de mindent megtett-megtesz azért, hogy egy keserű, rettegő, negatív
+                                emberből lassan, de biztosan boldog, kiegyensúlyozott, élni akaró, sikert elérő,
+                                küzdővé váljunk! Mindenkinek tiszta szívvel ajánlom őt, a munkásságát!</p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-details">
                                     <div class="testimonial-one__client-img">
-                                        <img src="assets/images/testimonial/testimonial-one-client-img-4.png"
+                                        <img src="assets/images/testimonial/testimonial-one-client-img-2.png"
                                             alt="Laski mentaltrening">
                                     </div>
                                     <div class="testimonial-one__client-content">
@@ -372,32 +333,12 @@
 
                         <!--Start Testimonial One Single-->
                         <div class="testimonial-one__single">
-                            <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                ipsum quia</p>
-                            <div class="testimonial-one__client-info">
-                                <div class="testimonial-one__client-details">
-                                    <div class="testimonial-one__client-img">
-                                        <img src="assets/images/testimonial/testimonial-one-client-img-3.png"
-                                            alt="Laski mentaltrening">
-                                    </div>
-                                    <div class="testimonial-one__client-content">
-                                        <h4>Robert Anton</h4>
-                                        <p>Therapy Specialist</p>
-                                    </div>
-                                </div>
-                                <div class="testimonial-one__quote">
-                                    <span class="icon-quote"></span>
-                                </div>
-                            </div>
-                        </div>
-                        <!--End Testimonial One Single-->
-
-                        <!--Start Testimonial One Single-->
-                        <div class="testimonial-one__single">
-                            <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                ipsum quia</p>
+                            <p class="testimonial-one__text-2">Sportoló fiam miatt kerestem meg Vivit. És milyen jól
+                                tettem! Nagyon szuper, ahogy
+                                foglalkozik vele, velünk. A fiam önbizalma is jobb lett! Mindannyian szeretjük a vele
+                                töltött órákat. Már a hangja is megnyugtató, árad belőle a kedvesség és a segíteni
+                                akarás. Örülök, hogy rátaláltunk, nagyon jó ember és szakember, csak ajánlani
+                                tudom mindenkinek.</p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-details">
                                     <div class="testimonial-one__client-img">
@@ -418,13 +359,14 @@
 
                         <!--Start Testimonial One Single-->
                         <div class="testimonial-one__single">
-                            <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                ipsum quia</p>
+                            <p class="testimonial-one__text-2">Vivi kiváló szakember, sportoló gyermekem mentális
+                                felkészültsége nagyon jó
+                                kezekbe került. Csoda volt, amit pár hónap alatt kihozott belőle. Segítőkész, kedves,
+                                szerethető, igazi csupa szív ember.</p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-details">
                                     <div class="testimonial-one__client-img">
-                                        <img src="assets/images/testimonial/testimonial-one-client-img-4.png"
+                                        <img src="assets/images/testimonial/testimonial-one-client-img-2.png"
                                             alt="Laski mentaltrening">
                                     </div>
                                     <div class="testimonial-one__client-content">
@@ -438,20 +380,21 @@
                             </div>
                         </div>
                         <!--End Testimonial One Single-->
-
                         <!--Start Testimonial One Single-->
                         <div class="testimonial-one__single">
-                            <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                ipsum quia</p>
+                            <p class="testimonial-one__text-2">Amikor Vivihez jártam, ösztönzött, hogy tudatosabban
+                                irányítsam az életem.
+                                Rámutatott egy perspektívára, hogy miként emeljem ki a pozitív dolgokat, mert abból
+                                lehet építkezni. Segített körülírni a célom, s a hozzá vezető utat felépíteni. Ezúton is
+                                köszönöm neki a segítségét!</p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-details">
                                     <div class="testimonial-one__client-img">
-                                        <img src="assets/images/testimonial/testimonial-one-client-img-3.png"
+                                        <img src="assets/images/testimonial/testimonial-one-client-img-2.png"
                                             alt="Laski mentaltrening">
                                     </div>
                                     <div class="testimonial-one__client-content">
-                                        <h4>Robert Anton</h4>
+                                        <h4>John Wiliam</h4>
                                         <p>Therapy Specialist</p>
                                     </div>
                                 </div>
@@ -461,39 +404,17 @@
                             </div>
                         </div>
                         <!--End Testimonial One Single-->
-
                         <!--Start Testimonial One Single-->
                         <div class="testimonial-one__single">
-                            <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                ipsum quia</p>
+                            <p class="testimonial-one__text-2">5/5***** Azt mondják, nem lehetünk mindig mindenben a
+                                legjobbak. De ha mégis
+                                megpróbálnánk, Vivi egész biztosan a segítségünkre lesz. Szakmai tudása és
+                                széleskörű élettapasztalata garantálja a fejlődést, közvetlen és empatikus természete
+                                pedig a jó hangulatot. Csak ajánlani tudom.</p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-details">
                                     <div class="testimonial-one__client-img">
-                                        <img src="assets/images/testimonial/testimonial-one-client-img-1.png"
-                                            alt="Laski mentaltrening">
-                                    </div>
-                                    <div class="testimonial-one__client-content">
-                                        <h4>Alexa Ronobs</h4>
-                                        <p>Therapy Specialist</p>
-                                    </div>
-                                </div>
-                                <div class="testimonial-one__quote">
-                                    <span class="icon-quote"></span>
-                                </div>
-                            </div>
-                        </div>
-                        <!--End Testimonial One Single-->
-
-                        <!--Start Testimonial One Single-->
-                        <div class="testimonial-one__single">
-                            <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                ipsum quia</p>
-                            <div class="testimonial-one__client-info">
-                                <div class="testimonial-one__client-details">
-                                    <div class="testimonial-one__client-img">
-                                        <img src="assets/images/testimonial/testimonial-one-client-img-4.png"
+                                        <img src="assets/images/testimonial/testimonial-one-client-img-2.png"
                                             alt="Laski mentaltrening">
                                     </div>
                                     <div class="testimonial-one__client-content">
@@ -521,14 +442,14 @@
 <section class="why-choose-one why-choose-one--about clearfix">
     <div class="shape4"><img src="assets/images/shapes/why-choose-v1-shape4.png" alt="Laski mentaltrening" /></div>
     <div class="shape5"><img src="assets/images/shapes/why-choose-v1-shape5.png" alt="Laski mentaltrening" /></div>
-    <div class="why-choose-one__bg" style="background-image: url(assets/images/resources/why-choose-v1-img1.jpg);">
+    <div class="why-choose-one__bg" style="background-image: url(Boaz/img/coaching.jpg);">
         <div class="why-choose-one__services-box">
             <div class="shape1"></div>
             <div class="icon-box">
                 <span class="icon-brain"></span>
             </div>
-            <h2>20</h2>
-            <h3>Years Therapy <br> Services</h3>
+            <h2>Több</h2>
+            <h3>Éves tapasztalat</h3>
         </div>
 
         <div class="why-choose-one__inner">
@@ -698,15 +619,15 @@
 <!--End Team One -->
 
 <!--Start Video One-->
-<section class="video-one">
+<section class="video-one video-one--margin">
     <div class="video-one__bg jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%"
-        style="background-image: url(assets/images/backgrounds/video-v1-bg.jpg);"></div>
+        style="background-image: url(Boaz/img/video2.jpg);"></div>
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
                 <div class="video-one__inner text-center">
                     <div class="video-one__video-link">
-                        <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ" class="video-popup">
+                        <a class="video-popup">
                             <div class="video-one__video-icon">
                                 <span class="icon-play"></span>
                                 <i class="ripple"></i>
@@ -715,8 +636,8 @@
                     </div>
 
                     <div class="video-one__content">
-                        <p>Lorem Ipsum but the have suffered quia psychology</p>
-                        <h2>A Great Agency Psychology <br> Counseling Services</h2>
+                        <p>Videók hamarosan…</p>
+                        <h2>Miért érdemes <br> sportmentáltréningre járni?<br> Beszéljenek a videók helyettem…</h2>
                     </div>
                 </div>
             </div>

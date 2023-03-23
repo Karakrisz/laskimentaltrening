@@ -1830,7 +1830,7 @@ ul {
     width: 1200px;
     height: 1200px;
     border-radius: 50%;
-    background: #624f4d;
+    background: #128C7E;
     mix-blend-mode: hard-light;
     z-index: 2;
     opacity: 0;
@@ -1850,7 +1850,7 @@ ul {
     width: 800px;
     height: 800px;
     border-radius: 50%;
-    background: #7a5a58;
+    background: #128C7E;
     mix-blend-mode: overlay;
     z-index: 4;
     opacity: 0;
@@ -2021,7 +2021,7 @@ ul {
     width: 800px;
     height: 800px;
     border-radius: 50%;
-    background: #7a5a58;
+    background: #128C7E;
     mix-blend-mode: overlay;
 }
 
@@ -2033,7 +2033,7 @@ ul {
     width: 800px;
     height: 800px;
     border-radius: 50%;
-    background: #7a5a58;
+    background: #128C7E;
     mix-blend-mode: overlay;
     opacity: 0;
     transform: rotate(0deg) translateX(-200px);
@@ -2053,7 +2053,7 @@ ul {
     width: 800px;
     height: 800px;
     border-radius: 50%;
-    background: #7a5a58;
+    background: #128C7E;
     mix-blend-mode: overlay;
     z-index: 4;
     opacity: 0;
@@ -2073,7 +2073,7 @@ ul {
     width: 800px;
     height: 800px;
     border-radius: 50%;
-    background: #7a5a58;
+    background: #128C7E;
     mix-blend-mode: overlay;
     z-index: 4;
     opacity: 0;
@@ -2165,7 +2165,7 @@ ul {
     top: auto;
     left: -400px;
     bottom: -325px;
-    background: #7a5a58;
+    background: #128C7E;
     width: 800px;
     height: 800px;
     mix-blend-mode: overlay;
@@ -2184,7 +2184,7 @@ ul {
     top: -300px;
     left: auto;
     right: -600px;
-    background: #7a5a58;
+    background: #128C7E;
     mix-blend-mode: overlay;
     width: 800px;
     height: 800px;
@@ -2431,7 +2431,7 @@ ul {
     width: 850px;
     height: 850px;
     border-radius: 50%;
-    background: #7a5a58;
+    background: #128C7E;
     mix-blend-mode: overlay;
     z-index: 1;
 }
@@ -2449,7 +2449,7 @@ ul {
     right: -330px;
     width: 600px;
     height: 600px;
-    background: #7a5a58;
+    background: #128C7E;
     mix-blend-mode: overlay;
     border-radius: 50%;
     z-index: 1;
@@ -2461,7 +2461,7 @@ ul {
     right: -400px;
     width: 600px;
     height: 600px;
-    background: #7a5a58;
+    background: #128C7E;
     mix-blend-mode: overlay;
     border-radius: 50%;
     z-index: 1;
@@ -4885,7 +4885,7 @@ ul {
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    background: #493e3d;
+    background: #128C7E;
     overflow: hidden;
     text-align: center;
     z-index: 1;

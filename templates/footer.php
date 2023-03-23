@@ -1,6 +1,6 @@
 <!--Start Site Footer-->
 <footer class="site-footer">
-    <div class="site-footer-bg" style="background-image: url(assets/images/backgrounds/footer-v1-bg.jpg);">
+    <div class="site-footer-bg">
     </div>
     <div class="site-footer__top">
         <div class="container">
@@ -10,8 +10,8 @@
                 <div class="col-xl-4 col-lg-6 col-md-6 wow animated fadeInUp" data-wow-delay="0.1s">
                     <div class="footer-widget__column footer-widget__about">
                         <div class="footer-widget__logo">
-                            <a href="index.html"><img src="assets/images/resources/footer-logo.png"
-                                    alt="Laski mentaltrening"></a>
+                            <a class="footer-widget__logo__link" href="/"><img class="footer-widget__logo__link__img"
+                                    src="Boaz/img/footer-logo.jpg" alt="Laski mentaltrening"></a>
                         </div>
                         <div class="footer-widget__about-text-box">
                             <p class="footer-widget__about-text">Laski Vivien vagyok sport mentáltréner, rekreáció-,
@@ -53,7 +53,7 @@
                                 <div class="text">
                                     <p> <a target="_blank"
                                             href="https://www.google.hu/maps/place/Kaposv%C3%A1r,+Pet%C5%91fi+t%C3%A9r,+7400/@46.3537821,17.7903446,17z/data=!3m1!4b1!4m6!3m5!1s0x476815fd2a025a27:0xf874dc0289882f44!8m2!3d46.3537784!4d17.7925333!16s%2Fg%2F11xfp7f_2?hl=hu&authuser=0">
-                                            Petőfi tér<br> Kaposvár, Hungary
+                                            Petőfi tér 4<br> Kaposvár, Hungary
                                         </a></p>
                                 </div>
                             </li>
@@ -64,7 +64,8 @@
                                         class="fab fa-facebook-f"></span></a>
                             </li>
                             <li>
-                                <a href="#"><span class="fab fa-instagram"></span></a>
+                                <a target="_blank" href="https://www.instagram.com/mentaltrening_mindenkinek"><span
+                                        class="fab fa-instagram"></span></a>
                             </li>
                         </ul>
                     </div>
@@ -135,7 +136,7 @@
         <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
         <div class="logo-box">
-            <a href="index.html" aria-label="logo image"><img src="assets/images/resources/footer-logo.png" width="143"
+            <a href="/" aria-label="logo image"><img src="Boaz/img/footer-logo.jpg" width="143"
                     alt="Laski mentaltrening" /></a>
         </div>
         <!-- /.logo-box -->
@@ -154,10 +155,11 @@
         </ul><!-- /.mobile-nav__contact -->
         <div class="mobile-nav__top">
             <div class="mobile-nav__social">
-                <a href="#" class="fab fa-twitter"></a>
-                <a href="#" class="fab fa-facebook-square"></a>
-                <a href="#" class="fab fa-pinterest-p"></a>
-                <a href="#" class="fab fa-instagram"></a>
+                <a target="_blank" href="https://www.facebook.com/laskisportmentaltrener"
+                    class="fab fa-facebook-square">
+                </a>
+                <a target="_blank" href="https://www.facebook.com/laskisportmentaltrener" class="fab fa-instagram">
+                </a>
             </div><!-- /.mobile-nav__social -->
         </div><!-- /.mobile-nav__top -->
 

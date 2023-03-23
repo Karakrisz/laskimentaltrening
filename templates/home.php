@@ -51,7 +51,7 @@
             <div class="swiper-slide">
                 <div class="shape1"></div>
                 <div class="shape2"></div>
-                <div class="image-layer" style="background-image: url(Boaz/img/slider.jpg);">
+                <div class="image-layer" style="background-image: url(Boaz/img/slider2.jpg);">
                 </div>
                 <!-- /.image-layer -->
 
@@ -78,7 +78,7 @@
             <div class="swiper-slide">
                 <div class="shape1"></div>
                 <div class="shape2"></div>
-                <div class="image-layer" style="background-image: url(Boaz/img/slider.jpg);">
+                <div class="image-layer" style="background-image: url(Boaz/img/slider3.jpg);">
                 </div>
                 <!-- /.image-layer -->
 
@@ -133,7 +133,7 @@
                         <div class="line1 float-bob-y"></div>
                         <div class="line2 float-bob-y"></div>
                         <div class="line3 float-bob-y"></div>
-                        <img src="assets/images/about/about-v1-img1.jpg" alt="Laski mentaltrening" />
+                        <img src="Boaz/img/magam.jpg" alt="Laski mentaltrening" />
                     </div>
                     <div class="about-one__img2">
                         <div class="about-one__img2-inner">
@@ -146,7 +146,7 @@
                             <div class="icon">
                                 <span class="icon-valentines-couple"></span>
                             </div>
-                            <p>Legjobb <br>Tanácsadás</p>
+                            <p>Sport <br>mentáltréning</p>
                         </div>
                     </div>
                 </div>
@@ -187,7 +187,7 @@
                             </li>
 
                             <li>
-                                <p><span class="icon-check"></span>Senior torna</p>
+                                <p><span class="icon-check"></span> Női / Senior torna</p>
                             </li>
                         </ul>
                     </div>
@@ -216,7 +216,7 @@
 
 <!--Start Services One-->
 <section class="services-one">
-    <div class="services-one__bg" style="background-image: url(assets/images/backgrounds/services-v1-bg-img.jpg);">
+    <div class="services-one__bg" style="background-image: url(Boaz/img/service.jpg);">
     </div>
     <div class="container">
         <div class="section-title text-center">
@@ -237,8 +237,8 @@
                         </div>
                     </div>
                     <div class="services-one__single-content clearfix">
-                        <h2><a href="/coaching">Coaching, life coaching, sport mentáltréning</a></h2>
-                        <p>Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p>
+                        <h2><a href="/coaching">Coaching / life coaching</a></h2>
+                        <p>Hogy boldog, kiegyensúlyozott életet élhess!</p>
                         <div class="btn-box">
                             <a href="/coaching">Bővebben <span class="icon-right-arrow-2"></span></a>
                         </div>
@@ -251,7 +251,7 @@
             <div class="col-xl-4 col-lg-4 wow animated fadeInUp" data-wow-delay="0.3s">
                 <div class="services-one__single">
                     <div class="services-one__single-img">
-                        <img src="assets/images/services/services-v1-img2.jpg" alt="Laski mentaltrening" />
+                        <img src="Boaz/img/csoportos-mental.jpg" alt="Laski mentaltrening" />
                         <div class="services-one__single-img-icon">
                             <div class="services-one__single-img-icon-inner">
                                 <span class="icon-disappointed-boy"></span>
@@ -259,9 +259,8 @@
                         </div>
                     </div>
                     <div class="services-one__single-content clearfix">
-                        <h2><a href="/taboroztatas">Önbizalomnövelő gyerektorna, csoportos tréning,
-                                táboroztatás</a></h2>
-                        <p>Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p>
+                        <h2><a href="/taboroztatas">Sportmentáltréning, csoportos tréning</a></h2>
+                        <p>Hogy céltudatos, sikeres sportolóvá vàlj!</p>
                         <div class="btn-box">
                             <a href="/taboroztatas">Bővebben <span class="icon-right-arrow-2"></span></a>
                         </div>
@@ -274,7 +273,7 @@
             <div class="col-xl-4 col-lg-4 wow animated fadeInUp" data-wow-delay="0.5s">
                 <div class="services-one__single">
                     <div class="services-one__single-img">
-                        <img src="assets/images/services/services-v1-img3.jpg" alt="Laski mentaltrening" />
+                        <img src="Boaz/img/sello.jpg" alt="Laski mentaltrening" />
                         <div class="services-one__single-img-icon">
                             <div class="services-one__single-img-icon-inner">
                                 <span class="icon-child-care-baby-care"></span>
@@ -282,8 +281,8 @@
                         </div>
                     </div>
                     <div class="services-one__single-content clearfix">
-                        <h2><a href="/senior-torna">Senior torna</a></h2>
-                        <p>Lorem ipsum dolor sit ameet aenean commodo nec ligula lorem ipsum</p>
+                        <h2><a href="/senior-torna">Női / Senior torna / Táboroztatás</a></h2>
+                        <p>Hogy a lelkeddel és a testeddel is összhangban legyél</p>
                         <div class="btn-box">
                             <a href="/senior-torna">Bővebben <span class="icon-right-arrow-2"></span></a>
                         </div>
@@ -370,14 +369,14 @@
 <section class="why-choose-one clearfix">
     <div class="shape4"><img src="assets/images/shapes/why-choose-v1-shape4.png" alt="Laski mentaltrening" /></div>
     <div class="shape5"><img src="assets/images/shapes/why-choose-v1-shape5.png" alt="Laski mentaltrening" /></div>
-    <div class="why-choose-one__bg" style="background-image: url(assets/images/resources/why-choose-v1-img1.jpg);">
+    <div class="why-choose-one__bg" style="background-image: url(Boaz/img/coaching.jpg);">
         <div class="why-choose-one__services-box">
             <div class="shape1"></div>
             <div class="icon-box">
                 <span class="icon-brain"></span>
             </div>
             <h2>Több</h2>
-            <h3>Éves tapasztalat <br> Szolgáltatások</h3>
+            <h3>Éves tapasztalat</h3>
         </div>
 
         <div class="why-choose-one__inner">
@@ -517,12 +516,12 @@
                     <!--Start Cases One Single-->
                     <div class="cases-one__single">
                         <div class="cases-one__single-img">
-                            <img src="assets/images/resources/cases-v1-img2.jpg" alt="Laski mentaltrening" />
+                            <img src="Boaz/img/sportoloknak.jpg" alt="Laski mentaltrening" />
                         </div>
                         <div class="cases-one__single-content">
                             <div class="cases-one__single-content-top">
                                 <p>A jobb teljesítményért</p>
-                                <h2><a>Sportolóknak</a></h2>
+                                <h2><a href="/sport-mentaltrening#sportoloknak">Sportolóknak</a></h2>
                             </div>
                             <div class="cases-one__single-content-bottom">
                                 <div class="left-btn-box">
@@ -548,7 +547,7 @@
                         <div class="cases-one__single-content">
                             <div class="cases-one__single-content-top">
                                 <p>Családi tanácsadás</p>
-                                <h2><a>Szülőknek</a></h2>
+                                <h2><a href="/sport-mentaltrening#szuloknek">Szülőknek</a></h2>
                             </div>
                             <div class="cases-one__single-content-bottom">
                                 <div class="left-btn-box">
@@ -573,7 +572,7 @@
                         <div class="cases-one__single-content">
                             <div class="cases-one__single-content-top">
                                 <p>Személyes tanácsadás</p>
-                                <h2><a>Edzőknek</a></h2>
+                                <h2><a href="/sport-mentaltrening#edzoknek">Edzőknek</a></h2>
                             </div>
                             <div class="cases-one__single-content-bottom">
                                 <div class="left-btn-box">
@@ -601,13 +600,13 @@
 <!--Start Video One-->
 <section class="video-one">
     <div class="video-one__bg jarallax" data-jarallax data-speed="0.2" data-imgPosition="50% 0%"
-        style="background-image: url(assets/images/backgrounds/video-v1-bg.jpg);"></div>
+        style="background-image: url(Boaz/img/video2.jpg);"></div>
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
                 <div class="video-one__inner text-center">
                     <div class="video-one__video-link">
-                        <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ" class="video-popup">
+                        <a class="video-popup">
                             <div class="video-one__video-icon">
                                 <span class="icon-play"></span>
                                 <i class="ripple"></i>
@@ -616,8 +615,8 @@
                     </div>
 
                     <div class="video-one__content">
-                        <p>Lorem Ipsum but the have suffered quia psychology</p>
-                        <h2>A Great Agency Psychology <br> Counseling Services</h2>
+                        <p>Videók hamarosan…</p>
+                        <h2>Miért érdemes <br> sportmentáltréningre járni?<br> Beszéljenek a videók helyettem…</h2>
                     </div>
                 </div>
             </div>
@@ -698,7 +697,7 @@
                     <div class="shape3"></div>
                     <div class="shape4"></div>
                     <div class="shape5"></div>
-                    <img src="assets/images/resources/facts-counter-v1-img1.jpg" alt="Laski mentaltrening" />
+                    <img src="Boaz/img/sport.jpg" alt="Laski mentaltrening" />
                 </div>
             </div>
             <!--End Facts Counter One Img-->
@@ -755,9 +754,10 @@
                             }'>
                         <!--Start Testimonial One Single-->
                         <div class="testimonial-one__single">
-                            <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                ipsum quia</p>
+                            <p class="testimonial-one__text-2">Ajánlom mindenkinek Vivit, akinek mentálisan szüksége
+                                van a sikeres
+                                eredményhez. Hatalmas erőt ad és nagyon jó társaság! Lányomnak is ő segített az
+                                Európa Bajnoki cím elérésében.</p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-details">
                                     <div class="testimonial-one__client-img">
@@ -778,9 +778,12 @@
 
                         <!--Start Testimonial One Single-->
                         <div class="testimonial-one__single">
-                            <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                ipsum quia</p>
+                            <p class="testimonial-one__text-2">Nekem nagyon sokat segített: segített megküzdeni a
+                                hétköznapokkal, hogy
+                                könnyebb legyen, hogyan tanuljak meg kikapcsolni, relaxálni. Más lett a
+                                gondolkodásom és sokkal könnyebben tudok tanulni. És a legfontosabb, hogy
+                                megtanultam magamat értékelni, illetve rengeteg önbizalmam lett és felerősödött,
+                                ami a jövőmre nézve igen fontos lesz. Köszönök mindent.</p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-details">
                                     <div class="testimonial-one__client-img">
@@ -801,9 +804,11 @@
 
                         <!--Start Testimonial One Single-->
                         <div class="testimonial-one__single">
-                            <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                ipsum quia</p>
+                            <p class="testimonial-one__text-2">Vivi kiváló szakember, aki a maximumot és még annál
+                                többet is kihozta a
+                                gyerekemből, folyamatosan azt erősítve, hogy mennyire jó és bármire képes.
+                                Mindenkinek csak ajánlani tudom! Kedves, szeretni való, türelmes szakember, aki
+                                kiválóan bánik a gyerekekkel.</p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-details">
                                     <div class="testimonial-one__client-img">
@@ -824,9 +829,10 @@
 
                         <!--Start Testimonial One Single-->
                         <div class="testimonial-one__single">
-                            <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                ipsum quia</p>
+                            <p class="testimonial-one__text-2">Nem ígért csodát és nem
+                                hitegetett, de mindent megtett-megtesz azért, hogy egy keserű, rettegő, negatív
+                                emberből lassan, de biztosan boldog, kiegyensúlyozott, élni akaró, sikert elérő,
+                                küzdővé váljunk! Mindenkinek tiszta szívvel ajánlom őt, a munkásságát!</p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-details">
                                     <div class="testimonial-one__client-img">
@@ -847,9 +853,12 @@
 
                         <!--Start Testimonial One Single-->
                         <div class="testimonial-one__single">
-                            <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                ipsum quia</p>
+                            <p class="testimonial-one__text-2">Sportoló fiam miatt kerestem meg Vivit. És milyen jól
+                                tettem! Nagyon szuper, ahogy
+                                foglalkozik vele, velünk. A fiam önbizalma is jobb lett! Mindannyian szeretjük a vele
+                                töltött órákat. Már a hangja is megnyugtató, árad belőle a kedvesség és a segíteni
+                                akarás. Örülök, hogy rátaláltunk, nagyon jó ember és szakember, csak ajánlani
+                                tudom mindenkinek.</p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-details">
                                     <div class="testimonial-one__client-img">
@@ -870,9 +879,58 @@
 
                         <!--Start Testimonial One Single-->
                         <div class="testimonial-one__single">
-                            <p class="testimonial-one__text-2">Lorem Ipsum available, but the majority have
-                                suffered dimply free text Suspe ndisse suscipit sagittis dolore magna aliqua
-                                ipsum quia</p>
+                            <p class="testimonial-one__text-2">Vivi kiváló szakember, sportoló gyermekem mentális
+                                felkészültsége nagyon jó
+                                kezekbe került. Csoda volt, amit pár hónap alatt kihozott belőle. Segítőkész, kedves,
+                                szerethető, igazi csupa szív ember.</p>
+                            <div class="testimonial-one__client-info">
+                                <div class="testimonial-one__client-details">
+                                    <div class="testimonial-one__client-img">
+                                        <img src="assets/images/testimonial/testimonial-one-client-img-2.png"
+                                            alt="Laski mentaltrening">
+                                    </div>
+                                    <div class="testimonial-one__client-content">
+                                        <h4>John Wiliam</h4>
+                                        <p>Therapy Specialist</p>
+                                    </div>
+                                </div>
+                                <div class="testimonial-one__quote">
+                                    <span class="icon-quote"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <!--End Testimonial One Single-->
+                        <!--Start Testimonial One Single-->
+                        <div class="testimonial-one__single">
+                            <p class="testimonial-one__text-2">Amikor Vivihez jártam, ösztönzött, hogy tudatosabban
+                                irányítsam az életem.
+                                Rámutatott egy perspektívára, hogy miként emeljem ki a pozitív dolgokat, mert abból
+                                lehet építkezni. Segített körülírni a célom, s a hozzá vezető utat felépíteni. Ezúton is
+                                köszönöm neki a segítségét!</p>
+                            <div class="testimonial-one__client-info">
+                                <div class="testimonial-one__client-details">
+                                    <div class="testimonial-one__client-img">
+                                        <img src="assets/images/testimonial/testimonial-one-client-img-2.png"
+                                            alt="Laski mentaltrening">
+                                    </div>
+                                    <div class="testimonial-one__client-content">
+                                        <h4>John Wiliam</h4>
+                                        <p>Therapy Specialist</p>
+                                    </div>
+                                </div>
+                                <div class="testimonial-one__quote">
+                                    <span class="icon-quote"></span>
+                                </div>
+                            </div>
+                        </div>
+                        <!--End Testimonial One Single-->
+                        <!--Start Testimonial One Single-->
+                        <div class="testimonial-one__single">
+                            <p class="testimonial-one__text-2">5/5***** Azt mondják, nem lehetünk mindig mindenben a
+                                legjobbak. De ha mégis
+                                megpróbálnánk, Vivi egész biztosan a segítségünkre lesz. Szakmai tudása és
+                                széleskörű élettapasztalata garantálja a fejlődést, közvetlen és empatikus természete
+                                pedig a jó hangulatot. Csak ajánlani tudom.</p>
                             <div class="testimonial-one__client-info">
                                 <div class="testimonial-one__client-details">
                                     <div class="testimonial-one__client-img">
